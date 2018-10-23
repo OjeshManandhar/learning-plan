@@ -129,6 +129,18 @@
 - [ ] [Udemy: Serverless Concepts](https://www.udemy.com/serverless-concepts/)
 
 ## Frontend
+- [X] [w3schools: HTML](https://www.w3schools.com/html/default.asp)
+- [X] [w3schools: CSS](https://www.w3schools.com/css/default.asp)
+- [ ] [w3schools: W3.CSS](https://www.w3schools.com/w3css/default.asp)
+- [ ] [w3schools: Bootstrap 3](https://www.w3schools.com/bootstrap/default.asp)
+- [ ] [w3schools: Bootstrap 4](https://www.w3schools.com/bootstrap4/default.asp)
+- [ ] [w3schools: JavaScript](https://www.w3schools.com/js/default.asp)
+- [ ] [w3schools: jQuery](https://www.w3schools.com/jquery/default.asp)
+- [ ] [w3schools: AngularJS](https://www.w3schools.com/angular/default.asp)
+- [ ] [w3schools: JSON](https://www.w3schools.com/js/js_json_intro.asp)
+- [ ] [w3schools: AJAX](https://www.w3schools.com/js/js_ajax_intro.asp)
+- [ ] [w3schools: W3.JS](https://www.w3schools.com/w3js/default.asp)
+- [ ] [w3schools: Node.JS](https://www.w3schools.com/nodejs/default.asp)
 - [ ] [Codecademy: Introduction to Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
 - [X] [Codecademy: Learn CSS](https://www.codecademy.com/learn/learn-css)
 - [X] [Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)
