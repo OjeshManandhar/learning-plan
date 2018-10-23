@@ -129,11 +129,11 @@
 - [ ] [Udemy: Serverless Concepts](https://www.udemy.com/serverless-concepts/)
 
 ## Frontend
-- [ ] [Codecademy: CSS Grid](https://www.codecademy.com/learn/learn-css-grid)
-- [ ] [Codecademy: HTML Projects](https://www.codecademy.com/en/courses/html-css-prj/projects/html-css-prj_broadway?viewall=false)
+- [X] [Codecademy: CSS Grid](https://www.codecademy.com/learn/learn-css-grid)
+- [X] [Codecademy: HTML Projects](https://www.codecademy.com/en/courses/html-css-prj/projects/html-css-prj_broadway?viewall=false)
 - [ ] [Codecademy: Introduction to Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
-- [ ] [Codecademy: Learn CSS](https://www.codecademy.com/learn/learn-css)
-- [ ] [Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)
+- [X] [Codecademy: Learn CSS](https://www.codecademy.com/learn/learn-css)
+- [X] [Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)
 - [ ] [Codecademy: Learn SASS](https://www.codecademy.com/learn/learn-sass)
 - [ ] [Codecademy: Learn responsive design](https://www.codecademy.com/learn/learn-responsive-design)
 - [ ] [Codecademy: Make a website](https://www.codecademy.com/en/courses/make-a-website)
@@ -248,9 +248,9 @@
 - [ ] [Launch School: Intro to Git and GitHub](https://launchschool.com/books/git)
 - [ ] [Learn enough git to be dangerous](http://learnenough.com/git-tutorial)
 - [ ] [Treehouse: Git Basics](https://teamtreehouse.com/library/git-basics)
-- [ ] [Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
+- [X] [Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
 - [ ] [Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
-- [ ] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+- [X] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 - [ ] [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
 
 ## Workflow
