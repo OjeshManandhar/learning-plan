@@ -146,7 +146,7 @@
 - [X] [Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)
 - [ ] [Codecademy: Learn SASS](https://www.codecademy.com/learn/learn-sass)
 - [ ] [Codecademy: Learn responsive design](https://www.codecademy.com/learn/learn-responsive-design)
-- [ ] [Codecademy: Make a website](https://www.codecademy.com/en/courses/make-a-website)
+- [X] [Codecademy: Make a website](https://www.codecademy.com/en/courses/make-a-website)
 - [ ] [Codecademy: Make an interactive website](https://www.codecademy.com/en/skills/make-an-interactive-website)
 - [ ] [Codecademy: Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)
 - [ ] [Codecademy: Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)
