@@ -179,7 +179,6 @@
 - [ ] [Treehouse: Modular CSS with Sass](https://teamtreehouse.com/library/modular-css-with-sass)
 - [ ] [Treehouse: SASS Basics](https://teamtreehouse.com/library/sass-basics-2)
 - [ ] [Codecademy: Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)
-- [ ] [Codecademy: Jquery Iterators](https://www.codecademy.com/learn/learn-jquery-iterators)
 - [ ] [Codecademy: Jquery Track](https://www.codecademy.com/learn/learn-jquery)
 - [ ] [Eloquent Javascript](http://eloquentjavascript.net)
 - [ ] [ES6](https://www.youtube.com/watch?v=0Mp2kwE8xY0&list=PL4cUxeGkcC9gKfw25slm4CUDUcM_sXdml)
