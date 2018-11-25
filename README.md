@@ -134,7 +134,7 @@
 - [ ] [w3schools: W3.CSS](https://www.w3schools.com/w3css/default.asp)
 - [ ] [w3schools: Bootstrap 3](https://www.w3schools.com/bootstrap/default.asp)
 - [ ] [w3schools: Bootstrap 4](https://www.w3schools.com/bootstrap4/default.asp)
-- [ ] [w3schools: JavaScript](https://www.w3schools.com/js/default.asp)
+- [X] [w3schools: JavaScript](https://www.w3schools.com/js/default.asp)
 - [ ] [w3schools: jQuery](https://www.w3schools.com/jquery/default.asp)
 - [ ] [w3schools: AngularJS](https://www.w3schools.com/angular/default.asp)
 - [ ] [w3schools: JSON](https://www.w3schools.com/js/js_json_intro.asp)
